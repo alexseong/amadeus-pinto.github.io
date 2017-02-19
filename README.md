@@ -1,6 +1,3 @@
-# amadeus-pinto.github.io
-
-
 #Forecasting Daily Fantasy Gamblers' Picks Based on the News
 
 ##Introduction
