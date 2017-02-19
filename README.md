@@ -1,3 +1,5 @@
+(the following includes content from a private repository. contact razar2323@gmail.com with questions.)
+
 #Forecasting Daily Fantasy Gamblers' Picks Based on the News
 
 ##Introduction
